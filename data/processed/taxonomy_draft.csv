@@ -1,0 +1,202 @@
+term,category
+vaulted ceiling, interior_features
+2-car garage, layout
+open floor, layout
+family room, layout
+full bathroom, layout
+car garage, layout
+major freeways, location
+sliding glass, exterior_features
+wood flooring, interior_features
+cozy fireplace, interior_features
+soaking tub, exterior_features
+water heater, utilities
+everyday living, condition
+high ceilings, interior_features
+dual vanities, interior_features
+updated kitchen, condition
+air conditioning, utilities
+single family, property_type
+single-family home, property_type
+golf course, community_amenities
+recessed lighting, interior_features
+laundry room, layout
+walk-in closet, interior_features
+fitness center, community_amenities
+community pool, community_amenities
+corner lot, location
+near shopping, community_amenities
+community amenities, community_amenities
+freeway access, location
+open-concept layout, layout
+mountain view, location
+natural light, interior_features
+granite countertops, interior_features
+quartz countertops, interior_features
+
+gated community, location
+covered patio, exterior_features
+private backyard, exterior_features
+center island, interior_features
+walk-in shower, interior_features
+hardwood floors, interior_features
+fresh interior, condition
+breakfast bar, interior_features
+outdoor kitchen, exterior_features
+multigenerational living, property_type
+3 bedrooms, layout
+dual-pane windows, layout
+a pool, exterior_features
+single-story home, property_type
+corner-lot home, property_type
+two-story home, property_type
+hilltop home, location
+ceiling fans, interior_features
+swimming pool, exterior_features
+dining places, community_amenities
+front-unit penthouse, property_type
+central heating, utilities
+earthquake insurance, utilities
+in-kitchen dining, interior_features
+stained cabinetry, interior_features
+privacy fence, exterior_features
+community center, community_amenities
+rooftop terrace, exterior_features
+new electrical, condition
+commuter location, location
+hallway bathroom, layout
+accessory dwelling unit,property_type
+studio unit,property_type
+condominium unit,property_type
+end-unit condominium,property_type
+main residence,property_type
+primary suite,layout
+floor plan,layout
+living room,layout
+living space,layout
+dining area,layout
+primary bedroom,layout
+additional bedrooms,layout
+formal dining room,layout
+formal living room,layout
+bonus room, layout
+media room,layout
+game room,layout
+playroom,layout
+sitting area,layout
+laundry area,layout
+indoor laundry,layout
+primary bathroom,layout
+en-suite bathroom,layout
+powder room,layout
+downstairs bedroom,layout
+secondary bedrooms,layout
+main level,layout
+lower level,layout
+upper level,layout
+first floor,layout
+second floor,layout
+open layout,layout
+functional layout,layout
+stainless steel appliances,interior_features
+custom cabinetry,interior_features
+tile flooring,interior_features
+walk-in pantry,interior_features
+dual sinks,interior_features
+plantation shutters,interior_features
+gas fireplace,interior_features
+crown molding,interior_features
+tile backsplash,interior_features
+luxury vinyl flooring,interior_features
+modern finishes,interior_features
+designer finishes,interior_features
+white cabinetry,interior_features
+abundant cabinetry,interior_features
+wood cabinetry,interior_features
+expansive windows,interior_features
+large windows,interior_features
+LED lighting,interior_features
+counter space,interior_features
+well-appointed kitchen,interior_features
+separate shower,interior_features
+spa-inspired bathroom,interior_features
+washer and dryer,interior_features
+chef's kitchen,interior_features
+storage space,interior_features
+closet space,interior_features
+gas range,interior_features
+sliding glass doors,interior_features
+custom finishes,interior_features
+open-concept kitchen,interior_features
+spacious kitchen,interior_features
+built-in storage,interior_features
+bright interior,interior_features
+airy interior,interior_features
+private balcony,exterior_features
+curb appeal,exterior_features
+front yard,exterior_features
+private patio,exterior_features
+outdoor dining area,exterior_features
+mature landscaping,exterior_features
+front porch,exterior_features
+fire pit,exterior_features
+attached garage,exterior_features
+three-car garage,exterior_features
+ample parking,exterior_features
+fenced yard,exterior_features
+landscaped yard,exterior_features
+outdoor entertaining area,exterior_features
+outdoor space,exterior_features
+rear deck,exterior_features
+private spa,exterior_features
+tankless water heater,utilities
+water softener,utilities
+owned solar system,utilities
+solar panels,utilities
+EV charging station,utilities
+central air conditioning,utilities
+energy-efficient systems,utilities
+updated plumbing,utilities
+updated electrical panel,utilities
+clubhouse,community_amenities
+tennis courts,community_amenities
+pickleball courts,community_amenities
+dog park,community_amenities
+walking trails,community_amenities
+country club,community_amenities
+great room, layout
+resort-style amenities,community_amenities
+community gym,community_amenities
+recreation facilities,community_amenities
+shared pools and spas,community_amenities
+walking distance,location
+proximity to shopping, location
+HVAC system, utilities
+ocean views,location
+top-rated schools,location
+hiking trails,location
+quiet cul-de-sac,location
+school district,location
+commuter routes,location
+near the beach,location
+near parks,location
+panoramic views,location
+coastal location,location
+lake views,location
+desirable neighborhood,location
+beautifully maintained,condition
+move-in ready,condition
+beautifully updated,condition
+new roof,condition
+new flooring,condition
+thoughtfully updated,condition
+beautifully remodeled,condition
+freshly painted,condition
+new construction,condition
+meticulously maintained,condition
+fully remodeled,condition
+modern upgrades,condition
+new windows,condition
+fresh exterior paint,condition
+turnkey condition,condition
+elementary school, location
