@@ -1,5 +1,6 @@
 import pytest
 import json
+import pandas as pd
 
 def test_taxonomy_loaded():
     with open('data/processed/taxonomy.json') as f:
