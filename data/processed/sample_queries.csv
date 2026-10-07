@@ -1,0 +1,51 @@
+query_id,query,intent
+1,show me homes in San Diego,browsing
+2,find condos in Irvine,browsing
+3,show me houses with swimming pools,browsing
+4,find homes with mountain views,browsing
+5,show me townhouses near the beach,browsing
+6,find properties with large backyards,browsing
+7,show me homes in gated communities,browsing
+8,find houses with home offices,browsing
+9,show me homes with open floor plans,browsing
+10,find condos with community fitness centers,browsing
+11,show me single-story homes,browsing
+12,find homes with outdoor kitchens,browsing
+13,show me properties near shopping,browsing
+14,find houses with hardwood floors,browsing
+15,show me homes with three-car garages,browsing
+16,find properties with ocean views,browsing
+17,show me homes with updated kitchens,browsing
+18,which Irvine neighborhoods have the lowest HOA fees,researching
+19,compare condos and townhouses in San Diego,researching
+20,which areas have highly rated schools,researching
+21,what neighborhoods are closest to public transportation,researching
+22,compare homes with solar panels and homes without solar,researching
+23,which communities have pools and tennis courts,researching
+24,what areas have the shortest commute to downtown,researching
+25,compare property prices in Irvine and San Diego,researching
+26,which neighborhoods have the most walking trails,researching
+27,what should I know about buying a condominium,researching
+28,which areas have lower property taxes,researching
+29,compare single-story and two-story homes,researching
+30,which communities are best for access to hiking trails,researching
+31,what is the average price of a three-bedroom home,researching
+32,which neighborhoods have newer construction,researching
+33,compare homes with septic systems and public sewer,researching
+34,which areas offer homes with larger lots,researching
+35,find a three-bedroom home under 800000 in Irvine,high_intent_inquiry
+36,show me move-in ready homes available this weekend,high_intent_inquiry
+37,find a two-bedroom condo under 600000 near downtown,high_intent_inquiry
+38,show me open houses in San Diego this Saturday,high_intent_inquiry
+39,find a single-story home with a two-car garage under 900000,high_intent_inquiry
+40,show me townhouses with low HOA fees available now,high_intent_inquiry
+41,find a four-bedroom home with a private pool in Irvine,high_intent_inquiry
+42,show me newly listed condos near public transit,high_intent_inquiry
+43,find a move-in ready home with solar panels under 1000000,high_intent_inquiry
+44,show me homes with open houses tomorrow,high_intent_inquiry
+45,find a three-bedroom townhouse with no HOA,high_intent_inquiry
+46,show me homes under 750000 with updated kitchens,high_intent_inquiry
+47,find a condo with two bathrooms and assigned parking,high_intent_inquiry
+48,show me waterfront homes available for viewing this week,high_intent_inquiry
+49,find a home with a guest suite and fenced yard under 950000,high_intent_inquiry
+50,show me new construction homes ready for immediate move-in,high_intent_inquiry
