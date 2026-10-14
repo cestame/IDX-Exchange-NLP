@@ -1,0 +1,50 @@
+{
+  "bedrooms": {
+    "tp": 100,
+    "fp": 1,
+    "fn": 21,
+    "precision": 0.9901,
+    "recall": 0.8264,
+    "f1": 0.9009
+  },
+  "bathrooms": {
+    "tp": 47,
+    "fp": 8,
+    "fn": 52,
+    "precision": 0.8545,
+    "recall": 0.4747,
+    "f1": 0.6104
+  },
+  "price": {
+    "tp": 0,
+    "fp": 15,
+    "fn": 0,
+    "precision": 0.0,
+    "recall": 0,
+    "f1": 0
+  },
+  "sqft": {
+    "tp": 49,
+    "fp": 10,
+    "fn": 1,
+    "precision": 0.8305,
+    "recall": 0.98,
+    "f1": 0.8991
+  },
+  "amenities": {
+    "tp": 1862,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "overall": {
+    "tp": 2058,
+    "fp": 34,
+    "fn": 74,
+    "precision": 0.9837,
+    "recall": 0.9653,
+    "f1": 0.9744
+  }
+}
